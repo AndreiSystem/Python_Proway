@@ -1,0 +1,68 @@
+SC,Santa Catarina,Blumenau
+SC,Santa Catarina,Blumenau,Água Verde
+SC,Santa Catarina,Blumenau,Asilo
+SC,Santa Catarina,Blumenau,B Retiro
+SC,Santa Catarina,Blumenau,Badenfurt
+SC,Santa Catarina,Blumenau,Bela Vista
+SC,Santa Catarina,Blumenau,Belchior
+SC,Santa Catarina,Blumenau,Belchior Baixo
+SC,Santa Catarina,Blumenau,Blumenau
+SC,Santa Catarina,Blumenau,Boa Vista
+SC,Santa Catarina,Blumenau,Bom Retiro
+SC,Santa Catarina,Blumenau,Centro
+SC,Santa Catarina,Blumenau,Escola Agricola
+SC,Santa Catarina,Blumenau,Fidelis
+SC,Santa Catarina,Blumenau,Fortaleza
+SC,Santa Catarina,Blumenau,Fortaleza Alta
+SC,Santa Catarina,Blumenau,Garcia
+SC,Santa Catarina,Blumenau,Glória
+SC,Santa Catarina,Blumenau,i Central
+SC,Santa Catarina,Blumenau,i Norte
+SC,Santa Catarina,Blumenau,i Seca
+SC,Santa Catarina,Blumenau,Itapouava Central
+SC,Santa Catarina,Blumenau,Itaum
+SC,Santa Catarina,Blumenau,Itaupava Central
+SC,Santa Catarina,Blumenau,Itaupava Seca
+SC,Santa Catarina,Blumenau,Itopava Norte
+SC,Santa Catarina,Blumenau,Itoupaua Norte
+SC,Santa Catarina,Blumenau,Itoupava
+SC,Santa Catarina,Blumenau,Itoupava Central
+SC,Santa Catarina,Blumenau,Itoupava Norte
+SC,Santa Catarina,Blumenau,Itoupava Seca
+SC,Santa Catarina,Blumenau,Itoupavazinha
+SC,Santa Catarina,Blumenau,Itoupavazinho
+SC,Santa Catarina,Blumenau,Jardim Blumenau
+SC,Santa Catarina,Blumenau,Nova Esperança
+SC,Santa Catarina,Blumenau,p Aguda
+SC,Santa Catarina,Blumenau,P Manso
+SC,Santa Catarina,Blumenau,Pântano do Sul
+SC,Santa Catarina,Blumenau,Parque Orquideas
+SC,Santa Catarina,Blumenau,Passo Manso
+SC,Santa Catarina,Blumenau,Petropolis
+SC,Santa Catarina,Blumenau,Ponta Aguda
+SC,Santa Catarina,Blumenau,Progresso
+SC,Santa Catarina,Blumenau,R Fresco
+SC,Santa Catarina,Blumenau,Ribeirao Fresco
+SC,Santa Catarina,Blumenau,Ribeirăo Fresco/Centro
+SC,Santa Catarina,Blumenau,s Norte
+SC,Santa Catarina,Blumenau,s Weissbach
+SC,Santa Catarina,Blumenau,Salto
+SC,Santa Catarina,Blumenau,Salto Norte
+SC,Santa Catarina,Blumenau,Salto Weisbach
+SC,Santa Catarina,Blumenau,Sem Bairro
+SC,Santa Catarina,Blumenau,t Salto
+SC,Santa Catarina,Blumenau,Testo Salto
+SC,Santa Catarina,Blumenau,Tribess
+SC,Santa Catarina,Blumenau,v Konder
+SC,Santa Catarina,Blumenau,Valparaiso
+SC,Santa Catarina,Blumenau,Velha
+SC,Santa Catarina,Blumenau,Velha Central
+SC,Santa Catarina,Blumenau,Velha Grande
+SC,Santa Catarina,Blumenau,Victor Konder
+SC,Santa Catarina,Blumenau,ViIa Nova
+SC,Santa Catarina,Blumenau,Vila Formosa
+SC,Santa Catarina,Blumenau,Vila Itoupava
+SC,Santa Catarina,Blumenau,Vila Mariana
+SC,Santa Catarina,Blumenau,Vila Nova
+SC,Santa Catarina,Blumenau,Vorstadt
+SC,Santa Catarina,Blumenau,Vorstardt
