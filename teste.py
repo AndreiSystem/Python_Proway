@@ -1,27 +1,10 @@
-"""
-nomes = ['Andrei', 'Gustavo', 'André']
 
-nomes.sort()
-print(nomes)
-"""
-"""
 numeros = []
+for i in range(0,3):
+    n = int(input('Digite um valor: '))
 
-for n in range(1, 5):
-    numeros.append(int(input('Digite um número: ')))
+    numeros.append(n)
 
-
-for i in range(5, 1, -1):
-    
-    if i % 2 == 1:
-        
-"""
-lista = []
-
-for n in range(1,10):
-    lista.append(int(input('Digite um número: ')))
-
-for i in range(len(lista), 0, -1):
-    if lista[i-1] % 2 != 0:
-        lista.remove(lista[i-1])
-print(lista)
+print(f'O menor valor da lista é {min(numeros)}')
+print(f'O maior valor da lista é {min(numeros)}')
+print(f'A média da lista {numeros} é de: {sum(numeros) / 3:.2f}')

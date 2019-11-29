@@ -32,6 +32,7 @@ class Student(Person):
     
     def getStudentNumber(self):
         return self.studentNumber
+
     
     def setAverageMark(self, averageMark):
         self.averageMark = averageMark
@@ -51,10 +52,11 @@ class Professor(Person):
     
     def getSalary(self):
         return self.salary
+
     
 class Address():
-    def __repr__(self):
-        return str(self.street) + "\n" + str(self.city) + "\n" + str(self.state) + "\n" + str(self.postalCode) + "\n" + str(self.country) + "\n"
+    def __str__(self):
+        return self.street + "\n" + self.city + "\n" + self.state + "\n" + self.postalCode + "\n" + self.country + "\n"
     
     def setStreet(self, street):
         self.street = street
@@ -93,6 +95,14 @@ class Address():
     def OutputAsLabel(self):
         pass
 
+
+
+professor = Professor()
+
+professor.setNome('José')
+professor.setSalary(324234)
+print(professor.getNome())
+print(professor.getSalary())
 """
 #Instanciando
 pessoa = Student()
